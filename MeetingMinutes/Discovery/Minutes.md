@@ -4,6 +4,7 @@
 - 10am September 28, 2020.
 
 ## Attendees:
+- Brayden Gates, Chunxiang Yu, Eli Sokeland, Joshua Johannsen, and Nicholas Burrell
 
 ## Meeting Objective
 - Project Kickoff
@@ -12,6 +13,7 @@
 - Zoom
 
 ## Minute Recorder
+- Recorder: Eli Sokeland
 - With client: 28 min
 - Altogether: 45 min
 ## Meeting Topics
