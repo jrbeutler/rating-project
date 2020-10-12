@@ -36,3 +36,7 @@ Admins need to be able to add and remove apprentices and full time employees.
 - BR9 :
 Only the person who left the rating will be able to edit the rating.
   - Doing this will allow only the person who left the rating to be able to change what they said if improvements are made or if new information pops up. This way it's not confusing if the rating changes and the apprentice has questions, but the person who left the initial comment wasn't the one who changed it, and thus doesn't know who did, and creates confusion.
+
+- BR10 :
+The website should be mobile friendly.
+  - The client specifically asked for the application to be able to be viewed and used through a mobile platform. This will allow for easy access from mutliple devices for both the employees and for the apprentices to view and perhaps update ratings from the comfort of their mobile device.
