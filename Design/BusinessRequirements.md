@@ -17,7 +17,7 @@ Employee X needs to be able leave comments for apprentices.
   - This will allow the apprentice to know where they are falling short in a given subject. Through this they will be able to work on it and grow. This will also allow for the senior to show them their strengths as well and perhaps even point them towards ways to improve their weaknesses or further their strengths.
 
 - BR5 :
-Apprentice needs to see who left what ratings
+Apprentice needs to see who left what ratings.
   - Through doing this, the apprentice will know who to talk to about any questions they may have on the  rating and why they received the number they did. This will open opportunities for the senior to direct and tutor the apprentice further, and will allow the apprentice to gain a better understanding of their rating.
 
 - BR6 :
@@ -32,3 +32,7 @@ Admins need to be able to see everything going on.
 - BR8:
 Admins need to be able to add and remove apprentices and full time employees.
   - Since admins will be in charge of the application, they will have the power to add and remove the apprentices, and full time employees as necessary. This way the application doesn't become overloaded with people that are no longer with the company as either, and they can add new hires on as they come into the company. This will allow for a smooth experience on keeping the people involved with the application short and sweet, instead of having people on the app that haven't been with the company in several years.
+
+- BR9 :
+Only the person who left the rating will be able to edit the rating.
+  - Doing this will allow only the person who left the rating to be able to change what they said if improvements are made or if new information pops up. This way it's not confusing if the rating changes and the apprentice has questions, but the person who left the initial comment wasn't the one who changed it, and thus doesn't know who did, and creates confusion.
