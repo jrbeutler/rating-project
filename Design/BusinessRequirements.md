@@ -23,3 +23,12 @@ Apprentice needs to see who left what ratings
 - BR6 :
 Different Leads need to have different weight on their ratings, based on area of rating.
   - This will allow for those who have expertise in that area to have more say in what went well and what didn't. This will open ways for predictive analytics for the rating system and will allow the apprentices to know who to talk to easier about different areas of expertise, based on the weight of these ratings.
+
+- BR7 :
+Admins need to be able to see everything going on.
+
+  - Admins will be above full time employees and will be the main people in charge of the app itself. Thus they will be able to do everything that a full time employee could do, but they will have a higher access and rights to the program than even full time employees.
+
+- BR8:
+Admins need to be able to add and remove apprentices and full time employees.
+  - Since admins will be in charge of the application, they will have the power to add and remove the apprentices, and full time employees as necessary. This way the application doesn't become overloaded with people that are no longer with the company as either, and they can add new hires on as they come into the company. This will allow for a smooth experience on keeping the people involved with the application short and sweet, instead of having people on the app that haven't been with the company in several years.
