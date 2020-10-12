@@ -1,2 +1,3 @@
-# Functional Requirements:
-# Non-functional Requirements:
+# **Requirements**
+## **Functional Requirements**
+## **Non-functional Requirements**
