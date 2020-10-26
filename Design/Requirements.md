@@ -42,13 +42,13 @@
   - [BR9](https://github.com/Eli017/rating-project/blob/master/Design/BusinessRequirements.md#business-requirements) 
       
 - FR9
-  - Priority: HIGH
-  - The users shall be able to easily access the website and perform operations on their mobile devices.
-  - [BR10](https://github.com/Eli017/rating-project/blob/master/Design/BusinessRequirements.md#business-requirements) 
+  - Priority: LOW
+  - The FTEs shall have different weight when rating apprentices, which based on their expertise on different areas.
+  - [BR6](https://github.com/Eli017/rating-project/blob/master/Design/BusinessRequirements.md#business-requirements)
   
 ## **Non-functional Requirements**
 
 - NR1
-  - Priority: LOW
-  - The FTEs shall have different weight when rating apprentices, which based on their expertise on different areas.
-  - [BR6](https://github.com/Eli017/rating-project/blob/master/Design/BusinessRequirements.md#business-requirements) 
+  - Priority: HIGH
+  - The users shall be able to easily access the website and perform operations on their mobile devices.
+  - [BR10](https://github.com/Eli017/rating-project/blob/master/Design/BusinessRequirements.md#business-requirements) 
