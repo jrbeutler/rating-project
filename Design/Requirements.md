@@ -38,19 +38,19 @@
   - The users shall be able to easily access the website and perform operations on their mobile devices.
   - [BR10](https://github.com/Eli017/rating-project/blob/master/Design/BusinessRequirements.md#business-requirements) 
   
-  # **Done**
+# **Done**
 
 - FR1
   - Priority: HIGH
   - The user shall be able to login to website by entering their Email and password.
   - [BR2](https://github.com/Eli017/rating-project/blob/master/Design/BusinessRequirements.md#business-requirements)
   
-  - FR3
+- FR3
   - Priority: LOW
   - The apprentices shall be able to see their own ratings, but not other apprentices' ratings.
   - [BR3](https://github.com/Eli017/rating-project/blob/master/Design/BusinessRequirements.md#business-requirements)
   
-  - FR5
+- FR5
   - Priority: MEDIUM
   - The apprentices shall be able to view the comments given to them by FTEs, and be able to know which employees rate and comment on themselves.
   - [BR5](https://github.com/Eli017/rating-project/blob/master/Design/BusinessRequirements.md#business-requirements)
