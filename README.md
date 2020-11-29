@@ -16,5 +16,5 @@ This is the CS Capstone project for 2020-2021.
 
 ## Project Management Tool:
 [GitHub Project Management Tool](https://github.com/Eli017/rating-project/projects)
-- Iteration 1:
-  - [First Iteration Management Center](https://github.com/Eli017/rating-project/projects/1)
+- Iteration 2:
+  - [Second Iteration Management Center](https://github.com/Eli017/rating-project/projects/1)
