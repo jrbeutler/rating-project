@@ -1,10 +1,5 @@
 # **Requirements**
 ## **Functional Requirements**
-
-- FR1
-  - Priority: HIGH
-  - The user shall be able to login to website by entering their Email and password.
-  - [BR2](https://github.com/Eli017/rating-project/blob/master/Design/BusinessRequirements.md#business-requirements)
   
 - FR2
   - Priority: HIGH
@@ -16,15 +11,11 @@
   - The apprentices shall be able to see their own ratings, but not other apprentices' ratings.
   - [BR3](https://github.com/Eli017/rating-project/blob/master/Design/BusinessRequirements.md#business-requirements)
   
+  
 - FR4
   - Priority: HIGH
   - An FTE shall be able to leave comments for apprentices.
   - [BR4](https://github.com/Eli017/rating-project/blob/master/Design/BusinessRequirements.md#business-requirements)
-  
-- FR5
-  - Priority: MEDIUM
-  - The apprentices shall be able to view the comments given to them by FTEs, and be able to know which employees rate and comment on themselves.
-  - [BR5](https://github.com/Eli017/rating-project/blob/master/Design/BusinessRequirements.md#business-requirements)
   
 - FR6
   - Priority: MEDIUM
@@ -52,3 +43,15 @@
   - Priority: HIGH
   - The users shall be able to easily access the website and perform operations on their mobile devices.
   - [BR10](https://github.com/Eli017/rating-project/blob/master/Design/BusinessRequirements.md#business-requirements) 
+  
+# **Done**
+
+- FR1
+  - Priority: HIGH
+  - The user shall be able to login to website by entering their Email and password.
+  - [BR2](https://github.com/Eli017/rating-project/blob/master/Design/BusinessRequirements.md#business-requirements)
+ 
+- FR5
+  - Priority: MEDIUM
+  - The apprentices shall be able to view the comments given to them by FTEs, and be able to know which employees rate and comment on themselves.
+  - [BR5](https://github.com/Eli017/rating-project/blob/master/Design/BusinessRequirements.md#business-requirements)
