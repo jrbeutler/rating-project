@@ -38,6 +38,9 @@
 - Run the command `yarn start` to start the application.
   - If the command line asks you to run the application on another port, type "Yes" and press enter.
 
+## Replicating the Development Environment (with Docker)
+- Steps for replicating and deploying the local environment can be found [here](https://github.com/Eli017/rating-project/blob/master/Documentation/Deployment.md#deployment-with-docker-locally).
+
 ## Tests
 ### Frontend
 - Navigate to the project root via the terminal.
