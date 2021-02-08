@@ -1,6 +1,6 @@
 # This is a document to help users get familiar with the Rating Project 
 
-### User
+### Admin view
 
 #### Login Page
 ![Login Page](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Login%20page.png)
