@@ -46,3 +46,5 @@ and choose "Create service connection", then "Azure Resource Manager."
 3. Create the PostgreSQL Docker container with the command `docker-compose -f docker-compose.db.yml up -d`.
 4. Create the backend API Docker image with the command `docker-compose build`.
 5. Run the Docker container with the command `docker-compose up -d`.
+5. Navigate to [http://localhost:3000/graphql](http://localhost:3000/graphql) and the app should be running successfully.
+
