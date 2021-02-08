@@ -9,8 +9,8 @@ Mobile View: \
 ![Mobile Login](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Mobile%20login%20page.png)
 1. The input box for the user to enter their current email address for their
 2. The input box for the user to enter their temporary/current password that matches the email placed above
-3. The eye icon that shows/hides the user's password based on if there is a line through the eye or not. Clicking on the icon will switch from hide to show and vice versa.
-4. The Login button, to be used when both input boxes above are filled with the required information. It will take this info, run it through the database, find the exact person and log them in under their credentials.
+3. The eye icon that shows/hides the user's password based on if there is a line through the eye or not. Clicking on the icon will switch from hide to show and vice versa (Not a step in the Mobile View, replace with step 4).
+4. The Login button, to be used when both input boxes above are filled with the required information. It will take this info, run it through the database, find the exact person and log them in under their credentials (Step 3 in the Mobile view).
 5. Mobile Landing Page preview to showcase web application's mobile friendly settings.
 
 #### Landing Page
