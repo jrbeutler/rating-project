@@ -28,3 +28,21 @@ and choose "Create service connection", then "Azure Resource Manager."
 - App Service name: ratings-project
 - Package or folder: use given
 11. Create the release from the pipeline and visit the Azure WebApp URL to see your website!
+
+## Deployment with Docker (locally)
+### Prerequisites
+- Docker is downloaded and configured to the local machine.
+  - Docker installation can be found [here](https://www.docker.com/get-started).
+- The Docker daemon is currently running on the local machine.
+### Frontend
+1. Ensure that all `.env` files are configured correctly.
+2. Navigate to the root directory of the frontend application via the terminal.
+3. Create the Docker container with the command `docker build -t rating-project-frontend .`.
+4. Run the Docker container with the command `docker run -p 3001:3000 --name rating-project-container rating-project-frontend`.
+5. Navigate to [http://localhost:3001/](http://localhost:3001/) and the app should be running successfully.
+### Backend
+1. Ensure that all `.env` files are configured correctly.
+2. Navigate to the root directory of the frontend application via the terminal.
+3. Create the PostgreSQL Docker container with the command `docker-compose -f docker-compose.db.yml up -d`.
+4. Create the backend API Docker image with the command `docker-compose build`.
+5. Run the Docker container with the command `docker-compose up -d`.
