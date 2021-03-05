@@ -17,7 +17,7 @@ Mobile View: \
 Web View :
 ![Landing Page](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Landing%20page%20-%20admin.png)
 Mobile View : \
-![Mobile Landing](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Mobile%20landing%20page%20-%20admin.png)
+![Mobile Landing](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Account%20landing%20page%20-%20admin.png)
 1. The User's name and their position (Admin/User)
 2. The User's overall rating on all categories.
 3. Only available to Admins. This button will take you to the add category page where a new category can be created to rate apprentices on.
@@ -28,18 +28,18 @@ Mobile View : \
 6. The Page menu of the application. This will allow the User to travel to the rating page and return to their person Profile page. If the user is an Admin, they will also have the Add User page available to create new users.
 
 #### Landing Page Cont.
-![Landing Page cont](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Landing%20page%20categories%20-%20admin.png)
+![Landing Page cont](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Account%20landing%20page%20-%20admin%20(contin).png)
 7. The rating categories side page of the Landing/Profile main page
 - The Rating Categories will have the users own personal overall score in each category, and will each be clickable to take to a separate page with more details on each category.
 
 #### Category Page
 ![Category Page](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Category%20page.png)
 1. The name of the Category being viewed.
-2. The Back button to take you back to the Landing Page.
+2. The graph that shows the ratings of a user over time with a best-fit line to view performance.
 3. The individual reviews the user has received in this Category, sorted by date.
 
 #### Rating Page
-![Rating Page](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Rating%20page.png)
+![Rating Page](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Rate%20apprentice%20page.png)
 1. The dropbox for choosing which apprentice to rate. (Required)
 2. The dropbox for chooosing which category to rate the apprentice on. (Required)
 3. The rating that will be given on the category selected. (Required)
@@ -61,7 +61,14 @@ Mobile View : \
 6. The button to submit all the information and put the new user into the system.
 
 #### Edit Profile Page
-![Edit Profile](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Edit%20profile.png)
+![Edit Profile](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Edit%20profile%20page.png)
 1. The User's new first name if they are deciding to change it.
 2. The User's new last name if they are deciding to change it.
-3. The submit button to save all the changes and update the user's information.
+3. The User's old password must be entered to change to a new password.
+4. The User's new password that must be different than the old password.
+5. The submit button to save all the changes and update the user's information.
+
+#### View Apprentices Page
+![Apprentices Page](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Apprentices%20page.png)
+1. The list of all Users with their names and role.
+2. A link to view a User's page with their overall rating and individual category ratings.
