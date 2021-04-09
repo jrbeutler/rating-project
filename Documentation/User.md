@@ -18,7 +18,7 @@ Mobile View: \
 #### Landing Page
 
 Web View :
-![Landing Page](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Account%20Page%20Categories.png)
+![Landing Page](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Account%20Page%20Ratings.png)
 Mobile View : \
 ![Mobile Landing](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Account%20landing%20page%20-%20admin.png)
 
@@ -35,7 +35,7 @@ Mobile View : \
 
 #### Landing Page Cont.
 
-![Landing Page cont](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Account%20Page%20Ratings.png) 8. The rating categories side page of the Landing/Profile main page
+![Landing Page cont](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Account%20Page%20Categories.png) 8. The rating categories side page of the Landing/Profile main page
 
 - The Rating Categories will have the users own personal overall score in each category, and will each be clickable to take to a separate page with more details on each category.
 
