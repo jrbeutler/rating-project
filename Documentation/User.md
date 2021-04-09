@@ -18,7 +18,7 @@ Mobile View: \
 #### Landing Page
 
 Web View :
-![Landing Page](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Landing%20page%20-%20admin.png)
+![Landing Page](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Account%20Page%20Categories.png)
 Mobile View : \
 ![Mobile Landing](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Account%20landing%20page%20-%20admin.png)
 
@@ -35,7 +35,7 @@ Mobile View : \
 
 #### Landing Page Cont.
 
-![Landing Page cont](<https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Account%20landing%20page%20-%20admin%20(contin).png>) 8. The rating categories side page of the Landing/Profile main page
+![Landing Page cont](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Account%20Page%20Ratings.png) 8. The rating categories side page of the Landing/Profile main page
 
 - The Rating Categories will have the users own personal overall score in each category, and will each be clickable to take to a separate page with more details on each category.
 
@@ -59,14 +59,20 @@ Mobile View : \
 
 #### Manage Content Page
 
-![Manage Content](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Add%20category%20page.png)
+![Manage Content, Categories](https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Manage%20Content%20Categories.png)
 
 1. Select between managing Categories or Users.
 2. Select a category from a list to archive.
 3. Select a category from a list to reactivate.
 4. Enter a new category into the system.
+
+![Manage Content, Users](<https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Manage%20Content%20Users(1).png>)
+
 5. Select a user from the list and change their role from either Apprentice, Full-Time Employee, or Admin.
 6. Select a user from a list to archive.
+
+![Manage Content, Users (continued)](<https://github.com/Eli017/rating-project/blob/master/Documentation/Images/Manage%20Content%20Users(2).png>)
+
 7. Select a user from a list to reactivate.
 8. Enter in a new user's information to add them into the system.
 
